@@ -85,8 +85,9 @@ Welcome to the personal portfolio website of Mathew Mugambi. This project is a s
 
 ## Deployment
 
-- **Static Hosting:**
+- **Static Hosting: Done Via Netlify and Github Pages**
 - https://plp-hackathon-html-css-portfolio.netlify.app/
+- https://matmug25flow.github.io/Portfolio/
 - **Netlify Form Handling:**  
   The contact form is ready for Netlify’s form submission feature—no extra configuration needed.
 
